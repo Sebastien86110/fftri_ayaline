@@ -32,3 +32,9 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+
+# IGNORE perso
+*.env
+openrc.sh
+token_openstack_FFTRI.txt
